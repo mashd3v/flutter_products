@@ -15,7 +15,9 @@ A new Flutter project.
 Cloudinary and Google Firebase were used as an API to get and upload data in this app
 
 For more info visit:
+
 https://cloudinary.com
+
 https://console.firebase.google.com
 
 ## Getting Started
