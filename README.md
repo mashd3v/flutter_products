@@ -12,10 +12,11 @@ A new Flutter project.
 
 ## API
 
-NEWSAPI was used as a news provider API to get live data for this app
+Cloudinary and Google Firebase were used as an API to get and upload data in this app
 
 For more info visit:
-https://newsapi.org
+https://cloudinary.com
+https://console.firebase.google.com
 
 ## Getting Started
 
